@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 85 50"
+   height="50"
+   width="85">
+  <g id="rklogo">
+    <text transform="scale(-1,1)">
+      <tspan
+        x="-55"
+        y="50"
+        style="font-size:75px;line-height:1;font-family:Baskerville;fill:#000000;"
+      >R</tspan>
+    </text>
+    <text transform="scale(1,1)">
+      <tspan
+        style="font-size:75px;line-height:1;font-family:Baskerville;fill:#000000;"
+         x="28"
+         y="50">K</tspan>
+    </text>
+    <circle
+       r="2.5"
+       cx="53"
+       cy="39"
+       style="fill:#000000"
+    />
+    <circle
+       r="2.5"
+       cx="31"
+       cy="39"
+       style="fill:#000000"
+    />
+  </g>
+</svg>

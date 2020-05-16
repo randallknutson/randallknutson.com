@@ -1,0 +1,26 @@
+{
+  "name": "randallknutson.com",
+  "version": "1.0.0",
+  "description": "Source code for randallknutson.com",
+  "author": "Randall Knutson <randall@knutson.io>",
+  "devDependencies": {
+    "copy-webpack-plugin": "^6.0.0",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "ts-loader": "^7.0.4",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "smoothscroll-polyfill": "^0.4.4"
+  }
+}
